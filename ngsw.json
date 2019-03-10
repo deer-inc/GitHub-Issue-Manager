@@ -1,20 +1,20 @@
 {
   "configVersion": 1,
-  "timestamp": 1552019456853,
-  "index": "/GitHub-Issue-Manager/index.html",
+  "timestamp": 1552212017263,
+  "index": "/gim/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/GitHub-Issue-Manager/es2015-polyfills.4a4cfea0ce682043f4e9.js",
-        "/GitHub-Issue-Manager/favicon.ico",
-        "/GitHub-Issue-Manager/index.html",
-        "/GitHub-Issue-Manager/main.7f51f562b788f0a951df.js",
-        "/GitHub-Issue-Manager/polyfills.407a467dedb63cfdd103.js",
-        "/GitHub-Issue-Manager/runtime.a5dd35324ddfd942bef1.js",
-        "/GitHub-Issue-Manager/styles.43a04b0866b5119ba82f.css"
+        "/gim/es2015-polyfills.4a4cfea0ce682043f4e9.js",
+        "/gim/favicon.ico",
+        "/gim/index.html",
+        "/gim/main.525a9599b0536afe93bb.js",
+        "/gim/polyfills.407a467dedb63cfdd103.js",
+        "/gim/runtime.a5dd35324ddfd942bef1.js",
+        "/gim/styles.23297b7e60bd4370f7a8.css"
       ],
       "patterns": []
     },
@@ -23,39 +23,41 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/GitHub-Issue-Manager/assets/api-setting.png",
-        "/GitHub-Issue-Manager/assets/github.svg",
-        "/GitHub-Issue-Manager/assets/icons/icon-128x128.png",
-        "/GitHub-Issue-Manager/assets/icons/icon-144x144.png",
-        "/GitHub-Issue-Manager/assets/icons/icon-152x152.png",
-        "/GitHub-Issue-Manager/assets/icons/icon-192x192.png",
-        "/GitHub-Issue-Manager/assets/icons/icon-384x384.png",
-        "/GitHub-Issue-Manager/assets/icons/icon-512x512.png",
-        "/GitHub-Issue-Manager/assets/icons/icon-72x72.png",
-        "/GitHub-Issue-Manager/assets/icons/icon-96x96.png"
+        "/gim/assets/api-setting.png",
+        "/gim/assets/github.svg",
+        "/gim/assets/icons/icon-128x128.png",
+        "/gim/assets/icons/icon-144x144.png",
+        "/gim/assets/icons/icon-152x152.png",
+        "/gim/assets/icons/icon-192x192.png",
+        "/gim/assets/icons/icon-384x384.png",
+        "/gim/assets/icons/icon-512x512.png",
+        "/gim/assets/icons/icon-72x72.png",
+        "/gim/assets/icons/icon-96x96.png",
+        "/gim/assets/issue-example.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/GitHub-Issue-Manager/assets/api-setting.png": "3c8a052927b5c6814ea4b9dfbbe643e4a7c0d084",
-    "/GitHub-Issue-Manager/assets/github.svg": "d72a8270e65f1b4a65f46e5c48d8fb37ee1304f5",
-    "/GitHub-Issue-Manager/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/GitHub-Issue-Manager/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/GitHub-Issue-Manager/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/GitHub-Issue-Manager/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/GitHub-Issue-Manager/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/GitHub-Issue-Manager/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/GitHub-Issue-Manager/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/GitHub-Issue-Manager/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/GitHub-Issue-Manager/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
-    "/GitHub-Issue-Manager/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/GitHub-Issue-Manager/index.html": "723ad1f8ca3ac6051a09b97e24b025fc5780fd2a",
-    "/GitHub-Issue-Manager/main.7f51f562b788f0a951df.js": "b9845f5decbf080464ca28b96d3cd649d08601a3",
-    "/GitHub-Issue-Manager/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/GitHub-Issue-Manager/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/GitHub-Issue-Manager/styles.43a04b0866b5119ba82f.css": "42f97e63cf229b0014be9b01d95fa23960b54e05"
+    "/gim/assets/api-setting.png": "3c8a052927b5c6814ea4b9dfbbe643e4a7c0d084",
+    "/gim/assets/github.svg": "d72a8270e65f1b4a65f46e5c48d8fb37ee1304f5",
+    "/gim/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/gim/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/gim/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/gim/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/gim/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/gim/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/gim/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/gim/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/gim/assets/issue-example.png": "daa7dbb15e2d9894498b25075b14e3177696b19c",
+    "/gim/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/gim/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/gim/index.html": "aefbe1011deb079360c174651d100187368814a2",
+    "/gim/main.525a9599b0536afe93bb.js": "520c414433e6469359c75d450f927cfd8d28c1fe",
+    "/gim/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/gim/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/gim/styles.23297b7e60bd4370f7a8.css": "bde454b2e0abcb2b89e72072d080bdff0933aab6"
   },
   "navigationUrls": [
     {
