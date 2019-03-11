@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1552319194095,
+  "timestamp": 1552320204167,
   "index": "/gim/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/gim/es2015-polyfills.4a4cfea0ce682043f4e9.js",
         "/gim/favicon.ico",
         "/gim/index.html",
-        "/gim/main.1eaf497f977adf4151fb.js",
+        "/gim/main.83d28160f18a27c30f7c.js",
         "/gim/polyfills.407a467dedb63cfdd103.js",
         "/gim/runtime.a5dd35324ddfd942bef1.js",
         "/gim/styles.23297b7e60bd4370f7a8.css"
@@ -26,14 +26,9 @@
         "/gim/assets/api-setting.png",
         "/gim/assets/cover.png",
         "/gim/assets/github.svg",
-        "/gim/assets/icons/icon-128x128.png",
         "/gim/assets/icons/icon-144x144.png",
-        "/gim/assets/icons/icon-152x152.png",
         "/gim/assets/icons/icon-192x192.png",
-        "/gim/assets/icons/icon-384x384.png",
         "/gim/assets/icons/icon-512x512.png",
-        "/gim/assets/icons/icon-72x72.png",
-        "/gim/assets/icons/icon-96x96.png",
         "/gim/assets/issue-example.png"
       ],
       "patterns": []
@@ -44,19 +39,14 @@
     "/gim/assets/api-setting.png": "3c8a052927b5c6814ea4b9dfbbe643e4a7c0d084",
     "/gim/assets/cover.png": "1c74407432f99ddceed27d3546c80d7d7f3e96db",
     "/gim/assets/github.svg": "d72a8270e65f1b4a65f46e5c48d8fb37ee1304f5",
-    "/gim/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/gim/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/gim/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/gim/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/gim/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/gim/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/gim/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/gim/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/gim/assets/icons/icon-144x144.png": "aa9b24c8b8450384b078a2a0923aeae5a9f2cd83",
+    "/gim/assets/icons/icon-192x192.png": "8e2b2fb5c0bc8f4edbc6a84bceb05bacdd3a09d5",
+    "/gim/assets/icons/icon-512x512.png": "65dcb8b2133e55575ee88b9bdedf005218b4433d",
     "/gim/assets/issue-example.png": "daa7dbb15e2d9894498b25075b14e3177696b19c",
     "/gim/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
-    "/gim/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/gim/index.html": "5bdd13c0c3fdbc106380487964b5c0a6ba229b9d",
-    "/gim/main.1eaf497f977adf4151fb.js": "456e5503643916294d41bc647d072901fd1edda0",
+    "/gim/favicon.ico": "66b232b76f21c925b832f7628132450ebef6292d",
+    "/gim/index.html": "c43128d3263274069a0720cc76aea9f17b03ff52",
+    "/gim/main.83d28160f18a27c30f7c.js": "30fc11d1911b2b497a3857ceb897685678d73f31",
     "/gim/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/gim/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/gim/styles.23297b7e60bd4370f7a8.css": "bde454b2e0abcb2b89e72072d080bdff0933aab6"
