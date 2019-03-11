@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1552316789678,
+  "timestamp": 1552319194095,
   "index": "/gim/index.html",
   "assetGroups": [
     {
@@ -24,6 +24,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/gim/assets/api-setting.png",
+        "/gim/assets/cover.png",
         "/gim/assets/github.svg",
         "/gim/assets/icons/icon-128x128.png",
         "/gim/assets/icons/icon-144x144.png",
@@ -41,6 +42,7 @@
   "dataGroups": [],
   "hashTable": {
     "/gim/assets/api-setting.png": "3c8a052927b5c6814ea4b9dfbbe643e4a7c0d084",
+    "/gim/assets/cover.png": "1c74407432f99ddceed27d3546c80d7d7f3e96db",
     "/gim/assets/github.svg": "d72a8270e65f1b4a65f46e5c48d8fb37ee1304f5",
     "/gim/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/gim/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -53,7 +55,7 @@
     "/gim/assets/issue-example.png": "daa7dbb15e2d9894498b25075b14e3177696b19c",
     "/gim/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/gim/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/gim/index.html": "0bfa4e305ec2e8e782d6967510f3a9973504cfab",
+    "/gim/index.html": "5bdd13c0c3fdbc106380487964b5c0a6ba229b9d",
     "/gim/main.1eaf497f977adf4151fb.js": "456e5503643916294d41bc647d072901fd1edda0",
     "/gim/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/gim/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
