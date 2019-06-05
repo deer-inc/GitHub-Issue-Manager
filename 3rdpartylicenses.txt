@@ -127,9 +127,6 @@ MIT
 @angular/router
 MIT
 
-@angular/service-worker
-MIT
-
 apollo-angular
 MIT
 The MIT License (MIT)
