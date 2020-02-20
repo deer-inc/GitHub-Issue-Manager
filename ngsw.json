@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1559726704470,
+  "timestamp": 1582186863446,
   "index": "/gim/index.html",
   "assetGroups": [
     {
@@ -8,10 +8,10 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/gim/es2015-polyfills.4a4cfea0ce682043f4e9.js",
+        "/gim/es2015-polyfills.358ed1827c991dd2afb0.js",
         "/gim/favicon.ico",
         "/gim/index.html",
-        "/gim/main.dafa174925e7a6b7b65d.js",
+        "/gim/main.1cf231219e091a2bcc9b.js",
         "/gim/polyfills.407a467dedb63cfdd103.js",
         "/gim/runtime.a5dd35324ddfd942bef1.js",
         "/gim/styles.23297b7e60bd4370f7a8.css"
@@ -43,10 +43,10 @@
     "/gim/assets/icons/icon-192x192.png": "8e2b2fb5c0bc8f4edbc6a84bceb05bacdd3a09d5",
     "/gim/assets/icons/icon-512x512.png": "65dcb8b2133e55575ee88b9bdedf005218b4433d",
     "/gim/assets/issue-example.png": "daa7dbb15e2d9894498b25075b14e3177696b19c",
-    "/gim/es2015-polyfills.4a4cfea0ce682043f4e9.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/gim/es2015-polyfills.358ed1827c991dd2afb0.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/gim/favicon.ico": "66b232b76f21c925b832f7628132450ebef6292d",
-    "/gim/index.html": "7fbc8583feea74db947cf9138df07537270239c5",
-    "/gim/main.dafa174925e7a6b7b65d.js": "8272e21dd5ab5e285a76957719730dee7a7fabef",
+    "/gim/index.html": "13026ff9268f4ea5bb687d7a00b4f5f509cfd35c",
+    "/gim/main.1cf231219e091a2bcc9b.js": "e37c5207cc558184a5ec2d4287e775bdfd44bb26",
     "/gim/polyfills.407a467dedb63cfdd103.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/gim/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/gim/styles.23297b7e60bd4370f7a8.css": "bde454b2e0abcb2b89e72072d080bdff0933aab6"
