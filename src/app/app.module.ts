@@ -15,6 +15,7 @@ import { SharedModule } from './shared/shared.module';
 import { SummaryComponent } from './summary/summary.component';
 import { TutorialComponent } from './tutorial/tutorial.component';
 import { UserGuideComponent } from './user-guide/user-guide.component';
+import { EncodePipe } from './encode.pipe';
 
 
 @NgModule({
@@ -28,7 +29,8 @@ import { UserGuideComponent } from './user-guide/user-guide.component';
     FilterFormComponent,
     SummaryComponent,
     UserGuideComponent,
-    CalculationSheetComponent
+    CalculationSheetComponent,
+    EncodePipe
   ],
   imports: [
     SharedModule,

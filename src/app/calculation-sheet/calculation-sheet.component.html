@@ -36,9 +36,11 @@
   コピー
 </button>
 <a
-  href="https://deer-inc.github.io/invoice-generator/?title=XXX案件コーディング&count={{
-    totalCost / 8 | number: '1.0-1'
-  }}&unit=人日&unitCost={{ unitPrice.value }}"
+  href="https://deer-inc.github.io/invoice-generator/?title1={{
+    'XXX案件コーディング' | encode
+  }}&count1={{
+    totalCost / 8 | number: '1.0-1' | encode
+  }}&unit1=人日&unitCost1={{ unitPrice.value }}"
   target="_blank"
   mat-raised-button
   color="primary"
