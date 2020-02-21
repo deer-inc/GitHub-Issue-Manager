@@ -5,6 +5,6 @@ import { Pipe, PipeTransform } from '@angular/core';
 })
 export class EncodePipe implements PipeTransform {
   transform(value: string, args?: any): any {
-    return encodeURIComponent(value);
+    return encodeURIComponent(value).replace(/\./g, '%2E');
   }
 }
